@@ -15,7 +15,7 @@ Basic Commads
 
 /start :- check am Alive
 
-Bot Owner Only
+
 /broadcast Replay Any Message or Media
 /stats user Status
 /ban_user  click ban_user more info
@@ -30,12 +30,12 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : Chekuthan 1.0
+)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
-"""
+
+
