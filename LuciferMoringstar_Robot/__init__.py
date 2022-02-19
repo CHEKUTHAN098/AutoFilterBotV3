@@ -15,6 +15,7 @@ Basic Commads
 
 /start :- check am Alive
 
+not for you OWNER COMMADS
 
 /broadcast Replay Any Message or Media
 /stats user Status
@@ -31,7 +32,8 @@ ABOUT = """
 ➥ Name :  Auto Filter V3
     
 ➥ Creator : Chekuthan 1.0
-)
+
+
 
 ➥ Language : Python3
 
